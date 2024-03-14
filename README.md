@@ -21,6 +21,6 @@ I'm currently a high school senior primarily interested in full-stack applicatio
 
 I'm interested in developing scalable and reliable software infrastructure through TDD and deliberate software architecture planning. I'm also passionate about my research interests in health informatics and working with high-dimensional data sets. 🤓
 
-I'm currently learning and working with React, Node.js, and PostgreSQL. Feel free to look around! (・_・)ノ
+I'm currently learning and working with React, Node.js, and PostgreSQL. Feel free to look around!
 
 [![My Skills](https://skillicons.dev/icons?i=react,java,js,nodejs,py,sklearn,tensorflow,spring,postgres,postman,bootstrap)](https://skillicons.dev)
