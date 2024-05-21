@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm Shium Mashud! 
 
-I'm currently a high school senior primarily interested in full-stack application development and data science. 🏫
+I'm an incoming freshman at the University of Connecticut primarily interested in full-stack application development, generative AI specifically working with LLMs, and data science. 🏫
 
-I'm interested in developing scalable and reliable software infrastructure through TDD and deliberate software architecture planning. I'm also passionate about my research interests in health informatics and working with high-dimensional data sets. 🤓
+I'm currently 
 
-I'm currently learning and working with React, Node.js, and PostgreSQL. Feel free to look around!
+I'm currently learning and working with Next.js 14 and fine-tuning LLMs. Feel free to look around!
 
 [![My Skills](https://skillicons.dev/icons?i=react,java,js,nodejs,py,sklearn,tensorflow,spring,postgres,postman,bootstrap)](https://skillicons.dev)
