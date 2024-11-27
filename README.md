@@ -1,4 +1,4 @@
-### Hey there 👋🏽
+### hey there 👋
 
 <!--
 **shiumash/shiumash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Shium Mashud! 
+i'm shium! 
 
-I'm an incoming freshman at the University of Connecticut primarily interested in full-stack application development, generative AI specifically working with LLMs, and data science. 🏫
+i'm a computer science & engineering student at the university of connecticut primarily interested in full-stack application development, generative ai specifically working with llms, and working with data (especially big data!). 🏫
 
-I'm currently 
+i'm currently working on my latest retrieval-augmented generation project as well as making updates to other projects. 🌱
 
-I'm currently learning and working with Next.js 14 and fine-tuning LLMs. Feel free to look around!
+i'm always open to help and advice on any topic or project, don't be afraid to reach out to me! similarily, feel free to ask any questions! always down to help. 🫡
 
-[![My Skills](https://skillicons.dev/icons?i=react,java,js,nodejs,py,sklearn,tensorflow,spring,postgres,postman,bootstrap)](https://skillicons.dev)
+wanna reach me? 📫
+- email: shium.mashud@uconn.edu
+- linkedin: www.linkedin.com/in/shium/
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=react,py,java,js,nodejs,sklearn,tensorflow,spring,postgres,aws,postman,bootstrap)](https://skillicons.dev)
