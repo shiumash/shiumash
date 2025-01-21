@@ -21,7 +21,7 @@ i'm a computer science & engineering student at the university of connecticut pr
 
 i'm currently working on my latest retrieval-augmented generation project as well as making updates to other projects. 🌱
 
-i'm always open to help and advice on any topic or project, don't be afraid to reach out to me! similarily, feel free to ask any questions! always down to help. 🫡
+i'm always open to help and advise on any topic or project, don't be afraid to reach out to me! similarily, feel free to ask any questions! always down to help. 🫡
 
 wanna reach me? 📫
 - email: shium.mashud@uconn.edu
