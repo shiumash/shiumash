@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 i'm shium! 
 
-i'm a computer science & engineering student at the university of connecticut primarily interested in full-stack application development, generative ai specifically working with llms, and working with data (especially big data!). 🏫
+i'm a computer science student at the university of connecticut primarily interested in full-stack application development, multi-modal ai, and working with data (especially big data!). 🏫
 
-i'm currently working on my latest retrieval-augmented generation project as well as making updates to other projects. 🌱
+i'm currently working on my quantiative research project as well as making updates to other projects. 🌱
 
 i'm always open to help and advise on any topic or project, don't be afraid to reach out to me! similarily, feel free to ask any questions! always down to help. 🫡
 
